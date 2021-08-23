@@ -1,6 +1,6 @@
 <?php
 
-echo "Teste codigo";
+echo "Olá mundo, teste";
 
 
 ?>
